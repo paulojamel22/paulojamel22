@@ -11,7 +11,7 @@ Com sólida base em **C++** e **C#**, foco meu trabalho na criação de arquitet
 - **Modding:** Desenvolvimento em **Java** para personalização e criação de novas mecânicas de gameplay.
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** C++, C#, Java, TypeScript.
+- **Linguagens:** C++, C#, Java, JavaScript, Python.
 - **Frameworks:** ASP.NET Core, Entity Framework, Blazor.
 - **Ferramentas:** VS Code, Git, Docker, Terminal/CLI.
 
